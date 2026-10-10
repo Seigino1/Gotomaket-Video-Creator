@@ -56,17 +56,9 @@ Skill 位于仓库的 skills/gotomaket-video-creator 目录，请完整安装到
 
 - **核心**：当前 Agent 会话能力 + 本地制片，无需额外配置模型 API Key。
 - **渲染**：HyperFrames 或 Remotion，每部影片使用一个主引擎；包含模板与依赖锁文件。
-- **方法**：归藏产品视频流程、Remotion 最佳实践、Prompt Motion 的 Codex 适配参考。
+- **方法**：结合归藏产品视频流程等多个视频生成工作流、Remotion 最佳实践、Prompt Motion 作为参考。
 - **可选**：Higgsfield 素材生成，默认关闭；账号、授权与费用另行处理。
 - **环境**：Python 3.9+、Node.js 22+、npm、浏览器、FFmpeg/FFprobe。仅安装选用引擎的依赖。
-
-媒体生成能力取决于当前宿主工具与额度；不承诺所有 Agent 都有免费图片、配音或视频生成。多语言可复用画面，分别调整文案、字幕和音轨。
-
-## 官网与案例
-
-官网包含制作流程演示、TourMind / Works / JourniOne 三案例切换、反馈入口和安装指令。点赞从 30 个 emoji 中抽取白边贴纸，记录保存在当前浏览器；达到 1000 次解锁彩蛋。投票链接仍待接入。
-
-官网与案例影片独立维护，不随 Skill 仓库分发。
 
 ## 目录与反馈
 
