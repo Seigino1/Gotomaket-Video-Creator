@@ -1,0 +1,15 @@
+{
+  "name": "gotomaket-promo-hyperframes",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "stills": "node render.mjs stills all",
+    "render": "node render.mjs video all",
+    "preview": "hyperframes preview"
+  },
+  "dependencies": {
+    "hyperframes": "0.8.143",
+    "gsap": "3.15.0"
+  }
+}

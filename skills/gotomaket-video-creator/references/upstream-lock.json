@@ -1,0 +1,27 @@
+{
+  "checkedDate": "2026-10-09",
+  "guizang": {
+    "repository": "https://github.com/op7418/guizang-product-video-skill",
+    "commit": "c2ce3491f71bc127fdec3dc468714df469a967c8",
+    "license": "AGPL-3.0",
+    "included": "选定提示词、审片/组件/声音参考及原创音效；未打包 CodePilot fallback"
+  },
+  "hyperframes": {
+    "repository": "https://github.com/heygen-com/hyperframes",
+    "npmVersion": "0.8.143",
+    "gitHead": "3aa68869f7d4cec8b37cdfcb9cd539389b63abed",
+    "license": "Apache-2.0"
+  },
+  "remotion": {
+    "version": "4.0.534",
+    "rulesSource": "用户指定的 remotion-best-practices 本地规则快照"
+  },
+  "promptMotion": {
+    "url": "https://prompt-motion.com",
+    "bundledOriginalPrompts": false
+  },
+  "higgsfield": {
+    "url": "https://docs.higgsfield.ai/docs/llms.txt",
+    "mode": "可选官方API或网页；无账号时本地制片继续"
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gotomaket-Video-Creator"
+  short_description: "从项目、官网或文件出发，完成产品分析、分镜、动效、多语言与宣传视频交付"
+  default_prompt: "用 $gotomaket-video-creator 根据这个项目、官网或文件，通过多轮对话制作产品宣传视频。"
